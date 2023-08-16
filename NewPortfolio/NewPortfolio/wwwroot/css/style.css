@@ -1,0 +1,22 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+html{
+    font-size:62.5%;
+}
+
+#particles-js {
+    background: #272729;
+}
+
+header{
+    width: 100vw;
+    height:100vh;
+}
+
+nav h1{
+    color:white;
+}

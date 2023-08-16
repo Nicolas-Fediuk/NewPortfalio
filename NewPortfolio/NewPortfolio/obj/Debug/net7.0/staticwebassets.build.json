@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "gzatvUgDOHn/3DgCLprCGcTIOiyQCtjdw92MYp4s25Q=",
+  "Source": "NewPortfolio",
+  "BasePath": "_content/NewPortfolio",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "NewPortfolio\\wwwroot",
+      "Source": "NewPortfolio",
+      "ContentRoot": "C:\\Users\\nfediuk\\Desktop\\NewPortfolio\\NewPortfolio\\NewPortfolio\\wwwroot\\",
+      "BasePath": "_content/NewPortfolio",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\nfediuk\\Desktop\\NewPortfolio\\NewPortfolio\\NewPortfolio\\wwwroot\\css\\style.css",
+      "SourceId": "NewPortfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nfediuk\\Desktop\\NewPortfolio\\NewPortfolio\\NewPortfolio\\wwwroot\\",
+      "BasePath": "_content/NewPortfolio",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\nfediuk\\Desktop\\NewPortfolio\\NewPortfolio\\NewPortfolio\\wwwroot\\js\\particles.min.js",
+      "SourceId": "NewPortfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nfediuk\\Desktop\\NewPortfolio\\NewPortfolio\\NewPortfolio\\wwwroot\\",
+      "BasePath": "_content/NewPortfolio",
+      "RelativePath": "js/particles.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\particles.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\nfediuk\\Desktop\\NewPortfolio\\NewPortfolio\\NewPortfolio\\wwwroot\\js\\site.js",
+      "SourceId": "NewPortfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nfediuk\\Desktop\\NewPortfolio\\NewPortfolio\\NewPortfolio\\wwwroot\\",
+      "BasePath": "_content/NewPortfolio",
+      "RelativePath": "js/site.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\site.js"
+    },
+    {
+      "Identity": "C:\\Users\\nfediuk\\Desktop\\NewPortfolio\\NewPortfolio\\NewPortfolio\\wwwroot\\json\\particlesjs-config.json",
+      "SourceId": "NewPortfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nfediuk\\Desktop\\NewPortfolio\\NewPortfolio\\NewPortfolio\\wwwroot\\",
+      "BasePath": "_content/NewPortfolio",
+      "RelativePath": "json/particlesjs-config.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\json\\particlesjs-config.json"
+    }
+  ]
+}
