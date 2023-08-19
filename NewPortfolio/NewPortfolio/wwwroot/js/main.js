@@ -19,11 +19,7 @@ function cargarEventListeners() {
     botonMostrar.addEventListener("click", action);
 }
 
-function animar() {
-    line1.classList.toggle("activeline--top");
-    line2.classList.toggle("activeline--middle");
-    line3.classList.toggle("activeline--bottom");
-}
+
 
 function action() {
 
@@ -31,7 +27,7 @@ function action() {
     const ventanaRight = parseInt(ventanaStyle.right);
 
     if (ventanaRight === 0) {
-        ventana.style.right = '-300px';
+        ventana.style.right = '-250px';
     } else {
         ventana.style.right = '0';
     }
@@ -43,9 +39,15 @@ window.onscroll = () => {
     const ventanaRight = parseInt(ventanaStyle.right);
 
     if (ventanaRight === 0) {
-        ventana.style.right = '-300px';
+        ventana.style.right = '-250px';
         animar();
     }
+}
+
+function animar() {
+    line1.classList.toggle("activeline--top");
+    line2.classList.toggle("activeline--middle");
+    line3.classList.toggle("activeline--bottom");
 }
 
 //window.onscroll = () => {
