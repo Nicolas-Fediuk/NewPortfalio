@@ -8,23 +8,23 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\nfediuk\\.nuget\\packages\\": {},
+    "C:\\Users\\nico\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nfediuk\\Desktop\\NewPortfolio\\NewPortfolio\\NewPortfolio\\NewPortfolio.csproj",
+      "projectUniqueName": "C:\\Users\\nico\\Desktop\\NewPortfalio\\NewPortfolio\\NewPortfolio\\NewPortfolio.csproj",
       "projectName": "NewPortfolio",
-      "projectPath": "C:\\Users\\nfediuk\\Desktop\\NewPortfolio\\NewPortfolio\\NewPortfolio\\NewPortfolio.csproj",
-      "packagesPath": "C:\\Users\\nfediuk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nfediuk\\Desktop\\NewPortfolio\\NewPortfolio\\NewPortfolio\\obj\\",
+      "projectPath": "C:\\Users\\nico\\Desktop\\NewPortfalio\\NewPortfolio\\NewPortfolio\\NewPortfolio.csproj",
+      "packagesPath": "C:\\Users\\nico\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\nico\\Desktop\\NewPortfalio\\NewPortfolio\\NewPortfolio\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\nfediuk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\nico\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -69,7 +69,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

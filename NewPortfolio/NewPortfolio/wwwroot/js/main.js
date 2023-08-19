@@ -2,13 +2,57 @@
 const NewNav = document.querySelector("nav");
 const h1 = document.querySelector("header");
 
+const barAnimado = document.querySelector(".bars__menu");
+let line1 = document.querySelector(".line--top");
+let line2 = document.querySelector(".line--middle");
+let line3 = document.querySelector(".line--bottom");
+
+const botonMostrar = document.querySelector('.nav-action');
+const ventana = document.getElementById('ventana');
+
 
 cargarEventListeners();
 
 function cargarEventListeners() {
     
-    
+    barAnimado.addEventListener("click", animar);
+    botonMostrar.addEventListener("click", action);
 }
+
+function animar() {
+    line1.classList.toggle("activeline--top");
+    line2.classList.toggle("activeline--middle");
+    line3.classList.toggle("activeline--bottom");
+}
+
+function action() {
+
+    const ventanaStyle = window.getComputedStyle(ventana);
+    const ventanaRight = parseInt(ventanaStyle.right);
+
+    if (ventanaRight === 0) {
+        ventana.style.right = '-300px';
+    } else {
+        ventana.style.right = '0';
+    }
+}
+
+window.onscroll = () => {
+
+    const ventanaStyle = window.getComputedStyle(ventana);
+    const ventanaRight = parseInt(ventanaStyle.right);
+
+    if (ventanaRight === 0) {
+        ventana.style.right = '-300px';
+        animar();
+    }
+}
+
+//window.onscroll = () => {
+
+//    animar();
+
+//}
 
 function ViewNavResponsive(){
 

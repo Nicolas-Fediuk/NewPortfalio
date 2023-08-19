@@ -11,6 +11,7 @@
     <div id="particles-js"></div>
 
     <nav>
+
         <ul class="menu">
             <li><a>Home</a></li>
             <li><a>Sobre mi</a></li>
@@ -20,15 +21,32 @@
             <li><a>Portfolio</a></li>
             <li><a>Contacto</a></li>
         </ul>
+
+        <!--Nav responsive-->
         <div class="ContentNewNav">
             <div>
-                <p>Nicolas Fediuk</p>
+                <p>Nicolas<span> Fediuk</span></p>
             </div>
-            <div>
-                <p>Menu</p>
+            <div class="nav-action bars__menu">
+                <span class="line line--top "></span>
+                <span class="line line--middle"></span>
+                <span class="line line--bottom"></span>
+            </div>
+            <div id="ventana">
+                <ul>
+                    <li><a>Home</a></li>
+                    <li><a>Sobre mi</a></li>
+                    <li><a>Habilidades</a></li>
+                    <li><a>Experiencia</a></li>
+                    <li><a>Educacion</a></li>
+                    <li><a>Portfolio</a></li>
+                    <li><a>Contacto</a></li>
+                </ul>
             </div>
         </div>
     </nav>
+
+    
 
 
     @RenderBody()

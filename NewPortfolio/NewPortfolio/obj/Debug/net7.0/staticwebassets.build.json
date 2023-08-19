@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "aPKR7VpPL9l+dK7Q4sJIkn83XWhEqlaAMt1Aqd54+PE=",
+  "Hash": "Va6auFt0Rh8FcexQ5+AS/ni9sUlxA0UTrvbvNooZoiE=",
   "Source": "NewPortfolio",
   "BasePath": "_content/NewPortfolio",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "NewPortfolio\\wwwroot",
       "Source": "NewPortfolio",
-      "ContentRoot": "C:\\Users\\nfediuk\\Desktop\\NewPortfolio\\NewPortfolio\\NewPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nico\\Desktop\\NewPortfalio\\NewPortfolio\\NewPortfolio\\wwwroot\\",
       "BasePath": "_content/NewPortfolio",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\nfediuk\\Desktop\\NewPortfolio\\NewPortfolio\\NewPortfolio\\wwwroot\\css\\style.css",
+      "Identity": "C:\\Users\\nico\\Desktop\\NewPortfalio\\NewPortfolio\\NewPortfolio\\wwwroot\\css\\style.css",
       "SourceId": "NewPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nfediuk\\Desktop\\NewPortfolio\\NewPortfolio\\NewPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nico\\Desktop\\NewPortfalio\\NewPortfolio\\NewPortfolio\\wwwroot\\",
       "BasePath": "_content/NewPortfolio",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\nfediuk\\Desktop\\NewPortfolio\\NewPortfolio\\NewPortfolio\\wwwroot\\img\\header.svg",
+      "Identity": "C:\\Users\\nico\\Desktop\\NewPortfalio\\NewPortfolio\\NewPortfolio\\wwwroot\\img\\header.svg",
       "SourceId": "NewPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nfediuk\\Desktop\\NewPortfolio\\NewPortfolio\\NewPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nico\\Desktop\\NewPortfalio\\NewPortfolio\\NewPortfolio\\wwwroot\\",
       "BasePath": "_content/NewPortfolio",
       "RelativePath": "img/header.svg",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\img\\header.svg"
     },
     {
-      "Identity": "C:\\Users\\nfediuk\\Desktop\\NewPortfolio\\NewPortfolio\\NewPortfolio\\wwwroot\\js\\main.js",
+      "Identity": "C:\\Users\\nico\\Desktop\\NewPortfalio\\NewPortfolio\\NewPortfolio\\wwwroot\\js\\main.js",
       "SourceId": "NewPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nfediuk\\Desktop\\NewPortfolio\\NewPortfolio\\NewPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nico\\Desktop\\NewPortfalio\\NewPortfolio\\NewPortfolio\\wwwroot\\",
       "BasePath": "_content/NewPortfolio",
       "RelativePath": "js/main.js",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\js\\main.js"
     },
     {
-      "Identity": "C:\\Users\\nfediuk\\Desktop\\NewPortfolio\\NewPortfolio\\NewPortfolio\\wwwroot\\js\\particles.min.js",
+      "Identity": "C:\\Users\\nico\\Desktop\\NewPortfalio\\NewPortfolio\\NewPortfolio\\wwwroot\\js\\particles.min.js",
       "SourceId": "NewPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nfediuk\\Desktop\\NewPortfolio\\NewPortfolio\\NewPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nico\\Desktop\\NewPortfalio\\NewPortfolio\\NewPortfolio\\wwwroot\\",
       "BasePath": "_content/NewPortfolio",
       "RelativePath": "js/particles.min.js",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\js\\particles.min.js"
     },
     {
-      "Identity": "C:\\Users\\nfediuk\\Desktop\\NewPortfolio\\NewPortfolio\\NewPortfolio\\wwwroot\\json\\particlesjs-config.json",
+      "Identity": "C:\\Users\\nico\\Desktop\\NewPortfalio\\NewPortfolio\\NewPortfolio\\wwwroot\\json\\particlesjs-config.json",
       "SourceId": "NewPortfolio",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nfediuk\\Desktop\\NewPortfolio\\NewPortfolio\\NewPortfolio\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nico\\Desktop\\NewPortfalio\\NewPortfolio\\NewPortfolio\\wwwroot\\",
       "BasePath": "_content/NewPortfolio",
       "RelativePath": "json/particlesjs-config.json",
       "AssetKind": "All",
